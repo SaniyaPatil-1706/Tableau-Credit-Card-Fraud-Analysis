@@ -67,11 +67,6 @@ The goal of this project is to make transaction and fraud data easier to
 explore, highlight patterns in fraudulent activity, and support a
 clearer understanding of customer and transaction risk.
 
-📁 Repository Contents
-
-Add your project files to this repository, such as: - Tableau workbook
-(.twb or .twbx) - Dataset, if you are permitted to share it -
-Dashboard screenshots - This README.md file
 
 🚀 How to View
 
